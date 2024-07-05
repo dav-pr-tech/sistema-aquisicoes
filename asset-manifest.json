@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sistema-aquisicoes/static/css/main.0c8742dd.css",
+    "main.js": "/sistema-aquisicoes/static/js/main.d0523222.js",
+    "static/js/453.c9c73b6c.chunk.js": "/sistema-aquisicoes/static/js/453.c9c73b6c.chunk.js",
+    "index.html": "/sistema-aquisicoes/index.html",
+    "main.0c8742dd.css.map": "/sistema-aquisicoes/static/css/main.0c8742dd.css.map",
+    "main.d0523222.js.map": "/sistema-aquisicoes/static/js/main.d0523222.js.map",
+    "453.c9c73b6c.chunk.js.map": "/sistema-aquisicoes/static/js/453.c9c73b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c8742dd.css",
+    "static/js/main.d0523222.js"
+  ]
+}
